@@ -32,4 +32,4 @@ Inspired by youtuber Elliott Chong and his video on youtube. link : https://www.
 This project is based on a tutorial by Elliott Chong, Channel link:  https://www.youtube.com/@elliottchong
 Original video: https://www.youtube.com/watch?v=OqlI2766LCk&ab_channel=ElliottChong
 
-All credit for the tutorial and concept goes to them. This repo is my implementation with modifications following along with the video for educational purposes.
+All credit for the original tutorial and concept goes to them. This repository contains my implementation, with modifications, following along with the video for educational purposes.
