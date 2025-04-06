@@ -29,3 +29,7 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
 Inspired by youtuber Elliott Chong and his video on youtube. link : https://www.youtube.com/watch?v=OqlI2766LCk&ab_channel=ElliottChong
+This project is based on a tutorial by Elliott Chong, Channel link:  https://www.youtube.com/@elliottchong
+Original video: https://www.youtube.com/watch?v=OqlI2766LCk&ab_channel=ElliottChong
+
+All credit for the tutorial and concept goes to them. This repo is my implementation with modifications following along with the video for educational purposes.
